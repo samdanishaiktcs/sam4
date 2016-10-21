@@ -13,6 +13,7 @@ if(empid==emp1)
 {
 	System.out.println("the project name is"+ z.getProject() );
 	System.out.println("the location is"+ z.getLocation());
+	System.out.println("new edit for commit id1");
 }
 else
 	System.out.println("unknown user");
